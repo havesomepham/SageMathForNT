@@ -1,0 +1,25 @@
+{
+    "jupyter.kernels.filter": [
+        {
+            "path": "/opt/homebrew/opt/python@3.10/bin/python3",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "/opt/homebrew/bin/python3",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "/opt/homebrew/opt/python@3.9/bin/python3",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "/opt/homebrew/bin/python3.9",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "/usr/bin/python3",
+            "type": "pythonEnvironment"
+        }
+    ],
+    "python.defaultInterpreterPath": "python"
+}

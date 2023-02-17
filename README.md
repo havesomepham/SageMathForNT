@@ -1,0 +1,1 @@
+Repo containing some SageMath scripts for problems in MATH 1902, Directed Study in Number Theory

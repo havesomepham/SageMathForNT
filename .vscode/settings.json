@@ -1,4 +1,4 @@
 {
-    "python.defaultInterpreterPath": "/var/tmp/sage-9.8-current/venv/bin/sage",
+    "python.defaultInterpreterPath": "python",
     "jupyter.kernels.filter": []
 }
